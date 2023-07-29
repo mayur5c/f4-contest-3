@@ -1,9 +1,9 @@
 # Acciojob F4 Contest 3
 
 - Deployed Link: https://mayur5c.github.io/f4-contest-3/
-- 
+
 # Task
-- Execute dummy authentication using api given at https://dummyjson.com/docs/auth
+- To execute dummy authentication using api given at https://dummyjson.com/docs/auth
 - Make a login ui and a profile page, the login takes only username and password and has a login button.
 - Take the username and password from the user and then on click of the log in button send a post request at the api given in the link above.
 - The post request should look like this-
@@ -28,7 +28,7 @@
 - You can get more valid usernames and password from- https://dummyjson.com/users
 - If its an invalid username or password the login api will automatically show an error.
 
-# Marking Scheme
+# Marking Scheme (100 Marks)
 - Login UI (10 points)
 - Profile Page UI (10 points)
 - Authentication UI (30 points)

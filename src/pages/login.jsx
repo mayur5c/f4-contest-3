@@ -117,7 +117,7 @@ export default function Login() {
           </div>
           <div>
             <a
-              href="https://github.com/shubham-lolusare/Acciojob_Weekly_Contest_F4_22.04.2023"
+              href="https://github.com/mayur5c/f4-contest-3"
               target="_blank"
             >
               GitHub{" "}
