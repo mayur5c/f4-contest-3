@@ -1,7 +1,7 @@
-# Acciojob_Weekly_Contest_F4_22.04.2023
-- This is a SPA project built in ReactJS with the help of TailwindCSS.
-- Deployed Link: https://shubham-lolusare.github.io/Acciojob_Weekly_Contest_F4_22.04.2023/
+# Acciojob F4 Contest 3
 
+- Deployed Link: https://mayur5c.github.io/f4-contest-3/
+- 
 # Task
 - Execute dummy authentication using api given at https://dummyjson.com/docs/auth
 - Make a login ui and a profile page, the login takes only username and password and has a login button.
